@@ -9,6 +9,7 @@
 ## 🧠 ¿Quién soy?
 
 Soy Heber, un futuro **desarrollador Full Stack**, actualmente en un bootcamp donde:
+
 - Rompo cosas 💥
 - Las arreglo 🔧
 - Y aprendo por qué se rompieron 🤓
@@ -20,16 +21,26 @@ Me apasiona la tecnología y estoy enfocado en aprender tanto **frontend** como 
 ## 🛠️ Tecnologías que estoy aprendiendo
 
 ### Frontend
+
 Tecnología,Código Markdown (Copia y Pega),Cómo se Verá
-- HTML5 ![alt text](media/img/html5.png)
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
+- HTML5 
 - CSS3
 - JavaScript
 - React (en proceso 🚧)
 
 ### Backend
+
 Empezamos en breves
 
 ### Otras herramientas
+
 - Git & GitHub
 - Terminal Gitbash (mi mejor amigo 😅)
 
