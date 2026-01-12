@@ -43,6 +43,7 @@ Empezamos en breves
 
 ---
 
+
 ## 🎯 Objetivos
 
 - ✅ Convertirme en desarrollador Full Stack
@@ -51,6 +52,11 @@ Empezamos en breves
 - 🚀 Conseguir mi primer trabajo en tecnología
 
 ---
+## 📊 Mi actividad en GitHub
+
+### 📈 Gráfico de actividad
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=webermuros1-oss&theme=github-dark)
+
 
 ## 📚 En este GitHub encontrarás
 
