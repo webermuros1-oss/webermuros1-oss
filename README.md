@@ -57,6 +57,16 @@ Empezamos en breves
 ### 📈 Gráfico de actividad
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=webermuros1-oss&theme=github-dark)
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=webermuros1-oss&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=webermuros1-oss&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webermuros1-oss&theme=tokyonight" width="100%" />
+</p>
+
 
 ## 📚 En este GitHub encontrarás
 
