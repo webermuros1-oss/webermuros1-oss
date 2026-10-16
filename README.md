@@ -86,16 +86,17 @@ API REST con Spring Boot y MySQL para el catálogo de un videoclub.
 
 ## 📊 Mi actividad en GitHub
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=webermuros1-oss&theme=github-dark)
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=webermuros1-oss&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=webermuros1-oss&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webermuros1-oss&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webermuros1-oss&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=webermuros1-oss&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=webermuros1-oss&theme=tokyonight" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=webermuros1-oss&theme=tokyonight&hide_border=true&locale=es" width="70%" />
 </p>
 
 ---
