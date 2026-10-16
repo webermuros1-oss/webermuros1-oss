@@ -9,13 +9,16 @@
 
 ## 🧠 ¿Quién soy?
 
-Terminé el bootcamp Full Stack y sigo con la misma filosofía:
+Empecé en un bootcamp Full Stack rompiendo cosas, arreglándolas y aprendiendo por qué se rompían 🤓. Hoy trabajo en **Inditex**, una de las mejores empresas del mundo, y eso me ha hecho evolucionar muchísimo como desarrollador.
 
-- Rompo cosas 💥
-- Las arreglo 🔧
-- Y aprendo por qué se rompieron 🤓
+Mi día a día:
 
-Ahora pongo el foco en lo que hace que un proyecto aguante en el mundo real: **tests**, código limpio (SOLID, TDD) y buenas prácticas de seguridad.
+- 🧩 **Backend:** desarrollo servicios con **arquitectura hexagonal**, separando el dominio de la infraestructura para que el código sea fácil de testear, mantener y cambiar.
+- 🎨 **Frontend:** construyo las interfaces que usan los equipos, cuidando que sean claras y fáciles de usar.
+- 🧪 **Calidad:** escribo tests, reviso código y aplico código limpio (SOLID, TDD) en un entorno profesional y a gran escala.
+- 🤝 **Equipo:** colaboro con otros desarrolladores y con negocio para convertir necesidades reales en software.
+
+Me encanta aprender de todo: tanto **back** como **front**, y todo lo que hay entre medias. Cuanto más complejo es el problema, más me engancha 🚀
 
 ---
 
@@ -24,6 +27,8 @@ Ahora pongo el foco en lo que hace que un proyecto aguante en el mundo real: **t
 ### Full Stack Developer (prácticas) · **Inditex**
 📅 Junio de 2026 – actualidad  
 🏢 Departamento de **People – Seguridad y Salud**
+
+Desarrollo Full Stack de aplicaciones internas del área: backend con arquitectura hexagonal, frontend y tests, trabajando en equipo con metodologías ágiles.
 
 ---
 
