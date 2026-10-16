@@ -105,7 +105,7 @@ API REST con Spring Boot y MySQL para el catálogo de un videoclub.
 Si quieres colaborar, ofrecerme un reto o simplemente decir hola:
 
 📫 **Email:** webermuros1@gmail.com  
-🌐 **LinkedIn:** https://www.linkedin.com/feed/?trk=onboarding-landing  
+🌐 **LinkedIn:** [heber-paris-caamaño](https://www.linkedin.com/in/heber-paris-caama%C3%B1o/)  
 🐙 **GitHub:** estás aquí 😉
 
 ---
