@@ -52,10 +52,9 @@ Desarrollo Full Stack de aplicaciones internas del área: backend con arquitectu
 
 ## 🌟 Proyectos destacados
 
-### 🎬 Lumen Cinema
+### 🎬 [Lumen Cinema](https://github.com/webermuros1-oss/lumen-cinema)
 Proyecto final del bootcamp, rehecho como pieza de portafolio: gestión integral de un cine con **intranet para el personal** y **tienda online para clientes**.  
-`Spring Boot 4` · `React 19` · `MySQL` · más de 1.700 tests (90 % de cobertura en el backend)  
-🔒 *Repositorio privado por ahora; pronto será público.*
+`Spring Boot 4` · `React 19` · `MySQL` · más de 1.700 tests (90 % de cobertura en el backend)
 
 ### 🚗 [OBDII Diagnostics](https://github.com/webermuros1-oss/OBDII-web)
 Aplicación de escritorio para **diagnosticar coches** con un adaptador ELM327 Bluetooth: sensores en tiempo real con gráficas en vivo, lectura y borrado de códigos de avería (DTC), datos del vehículo e historial de sesiones en SQLite.  
